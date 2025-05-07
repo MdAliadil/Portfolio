@@ -8,13 +8,13 @@ export default function Timeline() {
   const timelineData = [
    
     {
-      icon: "📘",
+      icon: "🎓",
       title: "Graduated in Information Technology ",
       date: "2024, Goel Institute of Technology & Management,Lucknow (AKTU)",
     },
     {
       icon: "📜",
-      title: "Certified in Web Development in PHP with Laravel Framework",
+      title: "Apprentice in Web Development in PHP with Laravel Framework",
       date: "2023 - Techpile Technology Private Limited ",
     },
   ];
