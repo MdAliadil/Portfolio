@@ -8,22 +8,14 @@ import { FaGithub } from "react-icons/fa";
 export default function Projects() {
   // A sample array of project data. You can fill in actual links later.
   const projectsData = [
+    
     {
-      title: "Professional Website for SRTechnicals",
-      description: "Improved client conversions by 30%.",
-      githubLink: "https://github.com/rishabh-ml/srtechnicals",
-    },
-    {
-      title: "Voice Assistant Android App",
+      title: "BukMuk",
       description:
-        "AI-powered Voice Assistant using Java, XML & integrated OpenAI API.",
-      githubLink: "https://github.com/rishabh-ml/voice-assistant",
+        "An virtual Library where you can rent or buy all your intrests",
+      githubLink: "",
     },
-    {
-      title: "HealthEase - Doctor Consultation App",
-      description: "React Native, Firestore, and React Paper UI-based solution.",
-      githubLink: "https://github.com/rishabh-ml/HealthEase",
-    },
+    
   ];
 
   return (
