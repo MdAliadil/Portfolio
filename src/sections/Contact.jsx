@@ -213,7 +213,7 @@ export default function Contact() {
       >
         <div className="max-w-6xl mx-auto px-4 flex flex-col items-center justify-between gap-2">
           <p className="text-sm">
-            © {new Date().getFullYear()} Prince. All rights reserved.
+            © {new Date().getFullYear()} Adil. All rights reserved.
           </p>
           <p className="text-xs text-gray-500">
             Powered by React, Tailwind CSS, and ♥

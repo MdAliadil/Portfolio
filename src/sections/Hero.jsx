@@ -26,7 +26,7 @@ export default function Hero() {
       */}
       <div className="relative z-10 flex flex-col items-center justify-center w-full h-full pointer-events-none">
         <SplitText
-          text="Hi, I'm Prince Dwivedi."
+          text="Hi, I'm Adil Ali."
           className="text-4xl sm:text-6xl font-bold text-white mb-4"
           textAlign="center"
           delay={50}

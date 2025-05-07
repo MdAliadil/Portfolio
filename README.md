@@ -1,4 +1,4 @@
-# Prince’s Portfolio Website
+# Adil’s Portfolio Website
 
 Welcome to the repository for my **Personal Portfolio** website—a sleek, single-page application showcasing my skills, projects, timeline, and more. This project uses **React**, **Tailwind CSS**, and **Framer Motion** to deliver a modern, dark-themed design with subtle animations.
 
