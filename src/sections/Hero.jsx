@@ -45,7 +45,7 @@ export default function Hero() {
           - Using Framer Motion for fade-in with delay
         */}
         <motion.a
-          href="/resume.docx"
+          href="/Adil Ali(PHP developer).pdf"
           download
           className="pointer-events-auto mt-6 px-5 py-3 text-sm sm:text-base 
                      font-semibold bg-indigo-600 hover:bg-indigo-700 

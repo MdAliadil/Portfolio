@@ -56,7 +56,7 @@ Welcome to the repository for my **Personal Portfolio** website—a sleek, singl
 │   ├─ index.css
 │   └─ main.jsx
 ├─ public/
-│   └─ resume.pdf (Optional Resume)
+│   └─ Adil Ali(PHP developer).pdf (Optional Resume)
 ├─ package.json
 ├─ tailwind.config.js
 └─ vite.config.js (or similar config)
