@@ -6,20 +6,16 @@ export default function Timeline() {
   // 1. Define your timeline data in an array of objects.
   //    Each item has an icon, title, date/range, etc.
   const timelineData = [
-    {
-      icon: "🎓",
-      title: "Passed Inter College (12th Standard)",
-      date: "2023 - CBSE Board, Etawah, Uttar Pradesh",
-    },
+   
     {
       icon: "📘",
-      title: "Started Diploma in Computer Science",
-      date: "2022 - 2025, Government Polytechnic Mohammadi (BTEUP)",
+      title: "Graduated in Information Technology ",
+      date: "2024, Goel Institute of Technology & Management (AKTU)",
     },
     {
       icon: "📜",
-      title: "Certified in Android Development",
-      date: "2024 - DigiCoder Technologies",
+      title: "Certified in Web Development in PHP with Laravel Framework",
+      date: "2023 - Techpile Technology Private Limited ",
     },
   ];
 
