@@ -1,19 +1,20 @@
-@import "tailwindcss";
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Root base styles */
 html, body {
   margin: 0;
   padding: 0;
-  /* If you want black by default */
-  background-color: #000; 
+  background-color: #f3e7e7; /* soft off-white background */
+  overflow-y: auto;
+  -ms-overflow-style: none;  /* IE & Edge */
+  scrollbar-width: none;     /* Firefox */
+  font-family: 'Inter', sans-serif; /* You can choose your preferred font */
 }
+
+/* Hide scrollbar for Chrome, Safari and Opera */
 html::-webkit-scrollbar,
 body::-webkit-scrollbar {
   display: none;
-}
-
-html, body {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-  overflow-y: auto;
-  margin: 0;
-  padding: 0;
 }

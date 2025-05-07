@@ -28,23 +28,20 @@ export default function TechSection() {
     "JavaScript",
     "Bootstrap",
     "Tailwind CSS",
-    "Figma",
+    
   
     // Group 2: Programming Languages and Advanced Frameworks
     "C",
-    "Python",
-    "Java",
-    "React",
-    "React Native",
-    "Daisy UI",
-    "Material-UI",
+    "PHP",
+    "Laravel",
+    
   
     // Group 3: Databases, Version Control, and Deployment Tools
     "SQL",
-    "Firebase",
+    "MySQL",
+    "MongoDB",
     "Git",
     "GitHub",
-    "Netlify",
     "Vercel"
   ];
   
