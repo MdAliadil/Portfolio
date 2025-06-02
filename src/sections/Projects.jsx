@@ -15,7 +15,24 @@ export default function Projects() {
         "An virtual Library where you can rent or buy all your intrests",
       githubLink: "",
     },
-    
+    {
+      title: "Template",
+      description:
+        "An GTemplate for your next project, with a clean and modern design",
+      githubLink: "https://github.com/MdAliadil/template1",
+    },
+     {
+      title: "VisitingCardGenerator",
+      description:
+        "An Visiting Card Generator where you can create your own visiting card with your details and download it as an image or pdf",
+      githubLink: "https://github.com/MdAliadil/ViSitingCardGenerater",
+    },
+    {
+      title: "Portfolio Template",
+      description:
+        "An Personal Portfolio Template for your next project, with a clean and modern design",
+      githubLink: "",
+    },
   ];
 
   return (
