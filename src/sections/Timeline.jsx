@@ -10,7 +10,7 @@ export default function Timeline() {
     {
       icon: "🎓",
       title: "Graduated in Information Technology ",
-      date: "2024, Goel Institute of Technology & Management,Lucknow (AKTU)",
+      date: "2025, Goel Institute of Technology & Management,Lucknow (AKTU)",
     },
     {
       icon: "📜",

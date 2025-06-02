@@ -33,7 +33,7 @@ export default function Hero() {
         />
 
         <SplitText
-          text="A passionate Frontend Developer building creative solutions."
+          text="A passionate Web Developer building creative solutions."
           className="text-base sm:text-lg text-gray-200 max-w-xl px-4"
           textAlign="center"
           delay={30}
